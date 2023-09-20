@@ -9,4 +9,8 @@ This is a simple blog API developed to learn all the advanced concepts of develo
 - Versioning
 - Searching anf Filtering
 
+
 In this project, i use on the class based views and the builtin generics.
+
+## Documentation:
+I used the drf-spectacular with the Swagger UI and Redoc
