@@ -1,5 +1,7 @@
 ![Book Api View](https://github.com/Timiemmy/New-Blog-Api/assets/100134035/de174615-bc87-4ad4-9187-41960b483950)
 # Blog Api
+Built using the Django rest framework.
+Here is the link to the GraphQL API version [GraphQL API Blog](https://github.com/Timiemmy/Blog-Api_2)
 
 This is a simple blog API developed to learn all the advanced concepts of developing APIs.
 
